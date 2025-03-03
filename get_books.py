@@ -41,7 +41,7 @@ def get_many_books(
 	
 	data: list[str] = []
 	for id in ids:
-		print(f"Getting book {id}...")
+		print(f"Getting book {84}...")
 		item: str = get_gutenberg_book(id, data_temp)
 		print(f"\t{len(item)} characters read")
 		data.append(item)
