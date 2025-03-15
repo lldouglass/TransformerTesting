@@ -1,5 +1,6 @@
 # TransformerTesting
-
+# Look for transformer in transformers-yo.ipynb
+# Additional transformer in newtransformer.ipynb
 
 ## William Warner
 
