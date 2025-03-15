@@ -46,3 +46,20 @@ https://chatgpt.com/share/67d42a1f-ae64-800d-93f5-0e33eb1c53d0
 **-** [ChatGPTConvo1.pdf](https://github.com/user-attachments/files/19257780/ChatGPTConvo1.pdf)
 
 **-** [https://chatgpt.com/share/67d4f6a2-3180-800b-adbe-d7d3debbb148](url)
+
+
+## Elias Shiffman
+
+##### Work Done
+
+**-** Implemented attention head, multi-headed attention, and mlp classes
+**-** Helped with parsing book data into usable batchs
+**-** Added positional embeddings, layernorm, and GELU
+**-** Wrote code to generate tokens for the trained model
+
+##### ChatGPT Logs
+
+**-** https://chatgpt.com/share/67d5ebda-e6cc-800a-b243-0c8bf52b6f89 <br>
+
+**-** https://chatgpt.com/share/67d5ec6d-a940-800a-8478-32f56fb306ef <br>
+
