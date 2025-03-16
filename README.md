@@ -64,3 +64,10 @@ https://chatgpt.com/share/67d42a1f-ae64-800d-93f5-0e33eb1c53d0
 
 **-** https://chatgpt.com/share/67d5ec6d-a940-800a-8478-32f56fb306ef <br>
 
+## Kasra Ghahremani
+##### Work Done
+
+**-** Helped with Implementation of the function that makes the mask matrix <br>
+**-** Helped with softmax
+**-** Helped with parsing book data into usable batchs
+
