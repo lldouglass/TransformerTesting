@@ -25,7 +25,8 @@
 **-**  
 **-** I developed a tokenization pipeline and built our embeddings matrix to efficiently convert raw text into meaningful vectors.
 I implemented a reference version of the GPT-2 tokenizer.
-Implimented the transformer architecture by  adding self-attention, positional encoding, and feed-forward layers.
+Implimented the transformer architecture by  adding self-attention, positional encoding, and feed-forward layers. 
+Added a function to parse the data from the guetenburg library.
 Also supported a lot of the team members with git.
 ##### ChatGPT Logs
 https://chatgpt.com/share/67d429ca-a484-800d-8600-48324a1ae18f
